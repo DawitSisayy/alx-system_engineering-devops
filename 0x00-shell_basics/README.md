@@ -1,1 +1,1 @@
-My README for shell script
+Readme description goes here
